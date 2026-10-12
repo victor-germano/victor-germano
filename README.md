@@ -118,14 +118,16 @@ Desenvolvedor web com foco em criação de sites institucionais, landing pages d
 
 | Projeto | Descrição | Tecnologias | Status |
 |--------|-----------|-------------|--------|
-| [Portfólio Pessoal](https://github.com/vgermano1711/portfolio-germano-dev) | Site com painel admin dinâmico e banco de dados | HTML, CSS, JS, Firebase | Em produção |
-| [Alma Estudos Visuais](https://github.com/vgermano1711/alma-estudos-visuais) | Site institucional com design moderno e experiência de usuário otimizada | HTML, CSS, JavaScript | Em desenvolvimento |
-| [Academia Agits](https://github.com/vgermano1711/academia-agits) | Site institucional em WordPress, hospedado na Hostinger | WordPress, PHP | Em produção |
-| [GNX Growth](https://github.com/vgermano1711/gnxgrowth) | Plataforma SaaS de growth marketing | React, TypeScript, Firebase | Em produção |
-| [Agente de Automação](https://github.com/vgermano1711/agente-de-automacao) | Sistema multi-agente de automação comercial — agentes de IA que qualificam leads, respondem clientes e gerenciam funil de vendas de forma autônoma | TypeScript, Node.js, Claude AI | Em desenvolvimento |
-| [Projeto Pringles](https://github.com/vgermano1711/projeto-pringles) | Aplicação web com TypeScript | TypeScript | Estudo |
-| [Segundo Cérebro](https://github.com/vgermano1711/segundo-cerebro) | Setup de produtividade com Obsidian + Claude AI | Obsidian, Claude AI | Pessoal |
-| [Agente de Emissão NF-e](https://github.com/vgermano1711/agente-de-emissao-NF-e) | Agente para automação de emissão de Nota Fiscal Eletrônica, integrado ao SEFAZ | Python, Claude AI | Em desenvolvimento |
+| [Portfólio Pessoal](https://github.com/victor-germano/portfolio-germano-dev) | Site com painel admin dinâmico e banco de dados | HTML, CSS, JS, Firebase | Em produção |
+| [Alma Estudos Visuais](https://github.com/victor-germano/alma-estudos-visuais) | Site institucional com design moderno e experiência de usuário otimizada | HTML, CSS, JavaScript | Em desenvolvimento |
+| [Academia Agits](https://github.com/victor-germano/academia-agits) | Site institucional em WordPress, hospedado na Hostinger | WordPress, PHP | Em produção |
+| [GNX Growth](https://github.com/victor-germano/gnxgrowth) | Plataforma SaaS de growth marketing | React, TypeScript, Firebase | Em produção |
+| [Agente de Automação](https://github.com/victor-germano/agente-de-automacao) | Sistema multi-agente de automação comercial — agentes de IA que qualificam leads, respondem clientes e gerenciam funil de vendas de forma autônoma | TypeScript, Node.js, Claude AI | Em desenvolvimento |
+| [Projeto Pringles](https://github.com/victor-germano/projeto-pringles) | Aplicação web com TypeScript | TypeScript | Estudo |
+| Segundo Cérebro (repositório privado) | Setup de produtividade com Obsidian + Claude AI | Obsidian, Claude AI | Pessoal |
+| [Agente de Emissão NF-e](https://github.com/victor-germano/agente-de-emissao-NF-e) | Agente para automação de emissão de Nota Fiscal Eletrônica, integrado ao SEFAZ | Python, Claude AI | Em desenvolvimento |
+| [Verificador de Vulnerabilidade de Código](https://github.com/victor-germano/Verificador-de-vulnerabilidade-de-codigo-) | Plataforma SAST: análise estática em 8 linguagens via AST, 38 regras de detecção, dashboard de risco e relatórios | Python, FastAPI, React, TypeScript, Docker | Em desenvolvimento |
+| [Jarvis — Programador por Voz](https://github.com/victor-germano/Programador-por-voz---Jarvis) | Assistente pessoal de voz: transcrição, interpretação de comandos e resposta por TTS | Python, Claude AI | Em desenvolvimento |
 
 ---
 
@@ -136,11 +138,11 @@ Desenvolvedor web com foco em criação de sites institucionais, landing pages d
 <!-- pacman -->
 <picture>
     <source media="(prefers-color-scheme: dark)"
-        srcset="https://raw.githubusercontent.com/vgermano1711/vgermano1711/output/pacman-contribution-graph-dark.svg">
+        srcset="https://raw.githubusercontent.com/victor-germano/victor-germano/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)"
-        srcset="https://raw.githubusercontent.com/vgermano1711/vgermano1711/output/pacman-contribution-graph.svg">
+        srcset="https://raw.githubusercontent.com/victor-germano/victor-germano/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph"
-        src="https://raw.githubusercontent.com/vgermano1711/vgermano1711/output/pacman-contribution-graph.svg">
+        src="https://raw.githubusercontent.com/victor-germano/victor-germano/output/pacman-contribution-graph.svg">
 </picture>
 
 </div>
@@ -151,21 +153,21 @@ Desenvolvedor web com foco em criação de sites institucionais, landing pages d
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vgermano1711&show_icons=true&theme=dark&hide_border=true&locale=pt-br&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victor-germano&show_icons=true&theme=dark&hide_border=true&locale=pt-br&count_private=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vgermano1711&layout=compact&theme=dark&hide_border=true&locale=pt-br&langs_count=8)
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vgermano1711&theme=dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-germano&layout=compact&theme=dark&hide_border=true&locale=pt-br&langs_count=8)
 
 </div>
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vgermano1711&theme=darkhub&no-frame=true&margin-w=10&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=victor-germano&theme=dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)
+
+</div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=victor-germano&theme=darkhub&no-frame=true&margin-w=10&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
