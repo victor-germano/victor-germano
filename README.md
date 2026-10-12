@@ -125,7 +125,7 @@ Desenvolvedor web com foco em criação de sites institucionais, landing pages d
 | [Emissor NF-e](https://github.com/victor-germano/agente-de-emissao-NF-e) | Validação de dados fiscais e geração do XML da NF-e. Assinatura digital e transmissão à SEFAZ estão no roadmap | Python | Em desenvolvimento |
 | [Portfólio Pessoal](https://github.com/victor-germano/portfolio-germano-dev) | Site com painel admin dinâmico e conteúdo persistido em banco de dados | HTML, CSS, JavaScript, Firebase | Em produção |
 | [GNX Growth](https://github.com/victor-germano/gnxgrowth) | Landing page de vendas para donos de delivery, publicada em domínio próprio | HTML, CSS, JavaScript | Em produção |
-| [Academia Agits](https://github.com/victor-germano/academia-agits) | Site institucional em WordPress, hospedado na Hostinger | WordPress, PHP | Em produção |
+| [Academia Agits](https://github.com/victor-germano/academia-agits) | Versão em WordPress do site institucional da academia, hospedada na Hostinger | WordPress, PHP | Concluído |
 | [Alma Estudos Visuais](https://github.com/victor-germano/alma-estudos-visuais) | Site institucional com design moderno e experiência de usuário otimizada | HTML, CSS, JavaScript | Em desenvolvimento |
 | [Fio Sob Medida](https://github.com/victor-germano/fio-sob-medida) | PWA de consultoria capilar com diagnóstico guiado por chatbot e cronograma personalizado | HTML, CSS, JavaScript | Estudo |
 | [Projeto Pringles](https://github.com/victor-germano/projeto-pringles) | Aplicação web com TypeScript | TypeScript | Estudo |
