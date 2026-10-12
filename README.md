@@ -167,12 +167,6 @@ Desenvolvedor web com foco em criação de sites institucionais, landing pages d
 
 </div>
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=victor-germano&theme=darkhub&no-frame=true&margin-w=10&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ---
 
 <div align="center">
