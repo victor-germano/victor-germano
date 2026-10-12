@@ -4,7 +4,7 @@
 
 # Eai! Sou Victor Germano!
 
-### Web Developer — Institutional Sites, Applied AI and Automation
+### Desenvolvedor Web — Sites institucionais, IA aplicada e automações
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-germano-65787b2b1/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://germanodev-portfolio.netlify.app/)
@@ -118,16 +118,18 @@ Desenvolvedor web com foco em criação de sites institucionais, landing pages d
 
 | Projeto | Descrição | Tecnologias | Status |
 |--------|-----------|-------------|--------|
-| [Portfólio Pessoal](https://github.com/victor-germano/portfolio-germano-dev) | Site com painel admin dinâmico e banco de dados | HTML, CSS, JS, Firebase | Em produção |
-| [Alma Estudos Visuais](https://github.com/victor-germano/alma-estudos-visuais) | Site institucional com design moderno e experiência de usuário otimizada | HTML, CSS, JavaScript | Em desenvolvimento |
-| [Academia Agits](https://github.com/victor-germano/academia-agits) | Site institucional em WordPress, hospedado na Hostinger | WordPress, PHP | Em produção |
-| [GNX Growth](https://github.com/victor-germano/gnxgrowth) | Plataforma SaaS de growth marketing | React, TypeScript, Firebase | Em produção |
+| [Verificador de Vulnerabilidades](https://github.com/victor-germano/verificador-de-vulnerabilidades) | Plataforma SAST: análise estática via AST em 8 linguagens, 38 regras de detecção, dashboard de risco e relatórios | Python, FastAPI, React, TypeScript, Docker | Em desenvolvimento |
+| [Agente de Emissão de NFS-e](https://github.com/victor-germano/agente-emissao-nfse) | Emite a nota fiscal de serviço automaticamente a partir do pagamento, com idempotência, retry, reconciliação e trilha de auditoria | Node.js, TypeScript, Supabase | Protótipo |
 | [Agente de Automação](https://github.com/victor-germano/agente-de-automacao) | Sistema multi-agente de automação comercial — agentes de IA que qualificam leads, respondem clientes e gerenciam funil de vendas de forma autônoma | TypeScript, Node.js, Claude AI | Em desenvolvimento |
+| [Jarvis — Assistente de Voz](https://github.com/victor-germano/jarvis-assistente-de-voz) | Assistente pessoal de voz: transcrição, interpretação de comandos e resposta por TTS | Python, Claude AI | Em desenvolvimento |
+| [Emissor NF-e](https://github.com/victor-germano/agente-de-emissao-NF-e) | Validação de dados fiscais e geração do XML da NF-e. Assinatura digital e transmissão à SEFAZ estão no roadmap | Python | Em desenvolvimento |
+| [Portfólio Pessoal](https://github.com/victor-germano/portfolio-germano-dev) | Site com painel admin dinâmico e conteúdo persistido em banco de dados | HTML, CSS, JavaScript, Firebase | Em produção |
+| [GNX Growth](https://github.com/victor-germano/gnxgrowth) | Landing page de vendas para donos de delivery, publicada em domínio próprio | HTML, CSS, JavaScript | Em produção |
+| [Academia Agits](https://github.com/victor-germano/academia-agits) | Site institucional em WordPress, hospedado na Hostinger | WordPress, PHP | Em produção |
+| [Alma Estudos Visuais](https://github.com/victor-germano/alma-estudos-visuais) | Site institucional com design moderno e experiência de usuário otimizada | HTML, CSS, JavaScript | Em desenvolvimento |
+| [Fio Sob Medida](https://github.com/victor-germano/fio-sob-medida) | PWA de consultoria capilar com diagnóstico guiado por chatbot e cronograma personalizado | HTML, CSS, JavaScript | Estudo |
 | [Projeto Pringles](https://github.com/victor-germano/projeto-pringles) | Aplicação web com TypeScript | TypeScript | Estudo |
 | Segundo Cérebro (repositório privado) | Setup de produtividade com Obsidian + Claude AI | Obsidian, Claude AI | Pessoal |
-| [Agente de Emissão NF-e](https://github.com/victor-germano/agente-de-emissao-NF-e) | Agente para automação de emissão de Nota Fiscal Eletrônica, integrado ao SEFAZ | Python, Claude AI | Em desenvolvimento |
-| [Verificador de Vulnerabilidade de Código](https://github.com/victor-germano/Verificador-de-vulnerabilidade-de-codigo-) | Plataforma SAST: análise estática em 8 linguagens via AST, 38 regras de detecção, dashboard de risco e relatórios | Python, FastAPI, React, TypeScript, Docker | Em desenvolvimento |
-| [Jarvis — Programador por Voz](https://github.com/victor-germano/Programador-por-voz---Jarvis) | Assistente pessoal de voz: transcrição, interpretação de comandos e resposta por TTS | Python, Claude AI | Em desenvolvimento |
 
 ---
 
