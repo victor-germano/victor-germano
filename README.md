@@ -87,7 +87,7 @@ Full Stack engineer specializing in **enterprise backend systems**, **autonomous
 | [SAST Security Platform](https://github.com/victor-germano/verificador-de-vulnerabilidades) | Static analysis engine — 38 detection rules, real AST parsing (8 languages), Docker Compose stack, standalone CLI, CI integration, exportable reports | Python · FastAPI · React · PostgreSQL · Docker | ✅ Shipped |
 | [Fiscal Automation Agent](https://github.com/victor-germano/agente-emissao-nfse) | Autonomous NFS-e emission agent — atomic idempotency, exponential retry/backoff, Stripe webhook reconciliation, LGPD audit trail, concurrent test suite | Node.js · TypeScript · Fastify · Supabase | ✅ Shipped |
 | [Solar Energy CRM](https://github.com/victor-germano/CRM-ENERGIA-SOLAR) | B2B prospecting CRM — Kanban pipeline, CNPJ enrichment via Receita Federal API, 1-click PDF proposals, dialer queue integration | React · TypeScript · Supabase · PostgreSQL | ✅ Production |
-| [ASN Supply](https://github.com/victor-germano/ASN-Supply) | Premium sneaker e-commerce — Turborepo monorepo (Next.js + NestJS), shared design system, Clean Architecture, Stripe/Pix integration | Next.js · NestJS · TypeScript · Firestore · Stripe | 🔨 In progress |
+| [Alma Estudos Visuais](https://github.com/victor-germano/alma-estudos-visuais) | Artist studio website — custom visual identity, CSS3 animations, responsive gallery. Pure HTML/CSS/JS, no framework overhead | HTML · CSS3 · JavaScript | ✅ Shipped |
 
 ---
 
