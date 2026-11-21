@@ -7,7 +7,7 @@
 ### Software Engineer · Enterprise AI Systems · Autonomous Agents
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-germano-65787b2b1/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://germanodev-portfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://victor-germano.github.io/portfolio-germano-dev/)
 
 </div>
 
@@ -128,6 +128,6 @@ Full Stack engineer specializing in **enterprise backend systems**, **autonomous
 
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/victor-germano-65787b2b1) · [Portfolio](https://germanodev-portfolio.netlify.app/)
+[LinkedIn](https://www.linkedin.com/in/victor-germano-65787b2b1) · [Portfolio](https://victor-germano.github.io/portfolio-germano-dev/)
 
 </div>
