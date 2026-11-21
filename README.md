@@ -86,7 +86,7 @@ Full Stack engineer specializing in **enterprise backend systems**, **autonomous
 | [AI Sales Automation](https://github.com/victor-germano/agente-de-automacao) | 7-agent autonomous pipeline: prospect → AI diagnosis → generate landing page → deploy → deliver via WhatsApp/Gmail. No human steps before final approval | TypeScript · Node.js · Claude AI · Puppeteer | ✅ Shipped |
 | [SAST Security Platform](https://github.com/victor-germano/verificador-de-vulnerabilidades) | Static analysis engine — 38 detection rules, real AST parsing (8 languages), Docker Compose stack, standalone CLI, CI integration, exportable reports | Python · FastAPI · React · PostgreSQL · Docker | ✅ Shipped |
 | [Fiscal Automation Agent](https://github.com/victor-germano/agente-emissao-nfse) | Autonomous NFS-e emission agent — atomic idempotency, exponential retry/backoff, Stripe webhook reconciliation, LGPD audit trail, concurrent test suite | Node.js · TypeScript · Fastify · Supabase | ✅ Shipped |
-| [Solar Energy CRM](https://github.com/victor-germano/CRM-ENERGIA-SOLAR) | B2B prospecting CRM — Kanban pipeline, CNPJ enrichment via Receita Federal API, 1-click PDF proposals, dialer queue integration | React · TypeScript · Supabase · PostgreSQL | ✅ Production |
+| [Solar Energy CRM](https://github.com/victor-germano/crm-energia-solar) | B2B prospecting CRM — Kanban pipeline, CNPJ enrichment via Receita Federal API, 1-click PDF proposals, dialer queue integration | React · TypeScript · Supabase · PostgreSQL | ✅ Production |
 | [Alma Estudos Visuais](https://github.com/victor-germano/alma-estudos-visuais) | Artist studio website — custom visual identity, CSS3 animations, responsive gallery. Pure HTML/CSS/JS, no framework overhead | HTML · CSS3 · JavaScript | ✅ Shipped |
 
 ---
