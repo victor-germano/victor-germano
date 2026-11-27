@@ -38,7 +38,7 @@ Full Stack engineer specializing in **enterprise backend systems**, **autonomous
 
 <div align="center">
 
-**Languages**
+**Idiomas**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -58,7 +58,7 @@ Full Stack engineer specializing in **enterprise backend systems**, **autonomous
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**Data & Infrastructure**
+**Dados e Infraestrutura**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -66,13 +66,18 @@ Full Stack engineer specializing in **enterprise backend systems**, **autonomous
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**AI**
+**Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+**IA**
 
 ![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,py,cs,react,nextjs,nodejs,postgres,redis,supabase,firebase,docker,git,github,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,py,cs,react,nextjs,nodejs,postgres,redis,supabase,firebase,docker,aws,azure,git,github,figma)](https://skillicons.dev)
 
 </div>
 
